@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🧠 AI Object Detector
 
@@ -36,11 +34,10 @@ An advanced AI-powered object detection web app built with Next.js 14, React.js,
 
 ## ▶️ Getting Started
 
-### 1. Clone the repo
+### 1. Clone the repositry
+https://github.com/ShaktiCodes/Object-detect.git
 
-```bash
-
-cd ai-object-detector
+cd Object-detect.git
 ```
 
 ### 2. Install dependencies
